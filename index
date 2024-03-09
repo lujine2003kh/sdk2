@@ -13,6 +13,7 @@
                         <td colspan="2">average</td>
                         <td rowspan="2">red eyes</td>
                     </tr>
+                    <tr>
                         <td>height</td>
                         <td>weight</td>
                     </tr>
