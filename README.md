@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tables</title>
+    </head>
+    <body>
+        <h1>Learn about tables</h1>
+        <table border="1"><em><strong> test table with merged cells</strong></em>
+                <tr>
+                    <td rowspan="2">       </td>
+                    <td colspan="2">average</td>
+                    <td rowspan="2">red eyes</td>
+                </tr>
+                <tr>
+                    <td>height</td>
+                    <td>weight</td>
+                </tr>
+            <tr>
+                <td><bold>female</bold></td>
+                <td>1.7</td>
+                <td>0.002</td>
+                <td>43%</td>
+            </tr>
+            <tr>
+                <td><bold>male</bold></td>
+                <td>1.9</td>
+                <td>0.003</td>
+                <td>40%</td>
+            </tr>
+        </table>
+    </body>
+</html>
